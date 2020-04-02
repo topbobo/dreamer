@@ -1,5 +1,8 @@
 # Dream to Control
-
+### Fix problem of "GFile object has no attribute 'seekable'"
+```sh
+pip3 install git+https://github.com/topbobo/dreamer
+```
 Danijar Hafner, Timothy Lillicrap, Jimmy Ba, Mohammad Norouzi
 
 <img width="100%" src="https://imgur.com/x4NUHXl.gif">
