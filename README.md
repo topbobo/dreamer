@@ -1,4 +1,5 @@
 # Dream to Control
+###Fix problem of 'GFile' object has no attribute 'seekable'.
 
 Danijar Hafner, Timothy Lillicrap, Jimmy Ba, Mohammad Norouzi
 
